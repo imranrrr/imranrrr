@@ -1,7 +1,7 @@
 <h1>
-  Hello, I am Humayon 
+  Hello, I am Imran Latif 
   <a target="_blank">
-    <img src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/imranrrr/imranrrr/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 <br/>
@@ -42,7 +42,7 @@
 ## GitHub Analytics ⚙️ &nbsp; 
 
 <p>
-<a href="https://github.com/humayonzafar">
+<a href="https://github.com/imranrrr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=humayonzafar&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humayonzafar&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
@@ -53,20 +53,17 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/imranrrr/imranrrr/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 
-- [LinkedIn](https://www.linkedin.com/in/humayonzafar/)
-- [Stackoverflow](https://stackoverflow.com/users/17404705/humayon-zafar)
-- [Github](https://github.com/humayonzafar)
-- [Instagram](https://www.instagram.com/humayon.zafar/)  
-- [Dev.to](https://dev.to/humayonzafar)
+- [LinkedIn](https://www.linkedin.com/in/imran-latif-28759b134/)
+- [Github](https://github.com/imranrrrr)
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 <a href="https://github.com/humayonzafar?tab=repositories">𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</a>!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 <a href="https://github.com/imranrrr?tab=repositories">𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</a>!
 
 </div>
 
