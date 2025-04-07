@@ -2,7 +2,7 @@
     <h1>
       Hello, I am Imran Latif 
       <a target="_blank">
-        <img src="https://github.com/imranrrr/imranrrr//GIF/Hi.gif" />
+        <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Hi.gif" />
       </a>
     </h1>
 
@@ -13,7 +13,7 @@
   </div>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/imranrrr/imranrrr/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/imranrrr/imranrrr/blob/master/GIF/code.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full Stack Developer** with last 6 years.
@@ -62,7 +62,7 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/imranrrr/imranrrr/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -79,13 +79,11 @@
 
 <div align="center">
   <p>  
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/humayonzafar?label=Followers&style=social"> •   
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/imranrr?label=Followers&style=social"> •   
    <img src="https://img.shields.io/github/stars/humayonzafar?label=Stars" alt="Total Stars"> •
    <img src="https://komarev.com/ghpvc/?username=humayonzafar&color=dc143c" alt="Profile Views"> 
   </p>
 
-  <p> Credits: <a href="https://www.humayonzafar.com/">humayonzafar</a> </p>
+  <p> Credits: <a href="https://www.imranlatif.com/">Imran Latif</a> </p>
   <p>Last edited on: 24/01/2021</p>
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=90421520)
