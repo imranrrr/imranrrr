@@ -1,21 +1,28 @@
-<h1>
-  Hello, I am Imran Latif 
-  <a target="_blank">
-    <img src="https://github.com/imranrrr/imranrrr/blob/main/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+  <div style="display: flex; justify-content: space-between;">
+    <h1>
+      Hello, I am Imran Latif 
+      <a target="_blank">
+        <img src="https://github.com/imranrrr/imranrrr//GIF/Hi.gif" />
+      </a>
+    </h1>
+
+    <div>
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="60px" />
+    </div>
+
+  </div>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/humayonzafar/humayonzafar/blob/main/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/imranrrr/imranrrr/GIF/code.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Full Stack Developer** with last 6 years.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine Learning** and **Deep Learning**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Full Stack Web Development** using AI applications.
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑  **Remote Part Time Jobs**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **Remote Part Time Jobs**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.imranlatif.com/contact) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜_**
 
 <br/>
 
@@ -41,7 +48,7 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## GitHub Analytics ⚙️ &nbsp; 
+## GitHub Analytics ⚙️ &nbsp;
 
 <p>
 <a href="https://github.com/imranrrr">
@@ -55,10 +62,9 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/imranrrr/imranrrr/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/imranrrr/imranrrr/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
-
 
 - [LinkedIn](https://www.linkedin.com/in/imran-latif-28759b134/)
 - [Github](https://github.com/imranrrrr)
@@ -69,7 +75,8 @@
 
 </div>
 
-------
+---
+
 <div align="center">
   <p>  
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/humayonzafar?label=Followers&style=social"> •   
