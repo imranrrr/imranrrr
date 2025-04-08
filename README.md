@@ -63,20 +63,4 @@
 - [LinkedIn](https://www.linkedin.com/in/imran-latif-28759b134/)
 - [Github](https://github.com/imranrrrr)
 
-<div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 <a href="https://github.com/imranrrr?tab=repositories">𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</a>!
-
-</div>
-
----
-
-<div align="center">
-  <p>  
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/imranrr?label=Followers&style=social"> •   
-   <img src="https://img.shields.io/github/stars/humayonzafar?label=Stars" alt="Total Stars"> •
-  </p>
-
-  <p> Credits: <a href="https://www.imranlatif.com/">Imran Latif</a> </p>
-  <p>Last edited on: 24/01/2021</p>
-</div>
