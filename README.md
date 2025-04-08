@@ -42,16 +42,6 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## GitHub Analytics ⚙️ &nbsp;
-
-<p>
-<a href="https://github.com/imranrrr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=humayonzafar&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humayonzafar&layout=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
-
-<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/humayonzafar/humayonzafar/blob/output/github-contribution-grid-snake.gif) -->
 
 <h1>
   Connect With Me
