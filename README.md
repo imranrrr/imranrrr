@@ -1,7 +1,7 @@
   <h1>
     Hello, I am Imran Latif 
     <a target="_blank">
-      <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Hi.gif" />
+      <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Hi.gif" width="40px"/>
     </a>
   </h1>
 
