@@ -1,16 +1,10 @@
-  <div style="display: flex; justify-content: space-between;">
-    <h1>
-      Hello, I am Imran Latif 
-      <a target="_blank">
-        <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Hi.gif" />
-      </a>
-    </h1>
+  <h1>
+    Hello, I am Imran Latif 
+    <a target="_blank">
+      <img src="https://github.com/imranrrr/imranrrr/blob/master/GIF/Hi.gif" />
+    </a>
+  </h1>
 
-    <div>
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="60px" />
-    </div>
-
-  </div>
 <br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/imranrrr/imranrrr/blob/master/GIF/code.gif">
